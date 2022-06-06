@@ -1,0 +1,1 @@
+In this case, the matrix $\mathtt{P}$ has *three* degrees of freedom (captured in the parameters $f$, $p_{x}$, and $p_{y}$).

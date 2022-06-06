@@ -1,0 +1,2 @@
+In this case, there are an additional three extrinsic parameters from the coordinates of $\mathbf{t} = -\mathbf{R} \tilde{C}$ and another three that determine the $3\times3$ rotation matrix $\mathbf{R}$.
+Thus, added to the three parameters $f$, $p_x$, and $p_y$ that determine the matrix $\mathbf{K}$, there are *nine* parameters required to determine the projection matrix $\mathtt{P}$.

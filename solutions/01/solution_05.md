@@ -1,0 +1,2 @@
+In this case, there are five parameters associated with the matrix $\mathbf{K}$, three with the coordinates of $\mathbf{t}$, and another three with the $3\times3$ rotation matrix $\mathbf{R}$.
+Thus, the projection matrix $\mathtt{P}$ has *eleven* degrees of freedom.
